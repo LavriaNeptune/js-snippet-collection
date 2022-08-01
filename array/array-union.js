@@ -6,3 +6,4 @@ const sampleArr2 = [2, 3, 4];
 
 const union = (a, b) => Array.from(new Set([...a, ...b]));
 const result = union(sampleArr1, sampleArr2);
+console.log(result); // [ 1, 2, 3, 4 ]
