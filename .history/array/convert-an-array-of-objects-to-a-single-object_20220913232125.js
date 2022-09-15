@@ -1,0 +1,1 @@
+const toObject = (arr,key) => arr.reduce((cur))
